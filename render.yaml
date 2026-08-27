@@ -25,7 +25,8 @@ services:
         sync: false # the frontend URL, so CORS only allows your own site
 
   # ---- 2. The frontend (React, built into plain static files) ----
-  - type: static
+  - type: web
+    runtime: static
     name: task-manager-client
     rootDir: client
     buildCommand: npm install && npm run build
