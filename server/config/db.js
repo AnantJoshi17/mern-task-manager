@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 const connectDB = async () => {
   try {
     // mongoose.connect returns a promise, so we await it.
-    const conn = await mongoose.connect(process.env.MONGO_URI);
+    const conn = await mongoose.connect(process.env.MONGO_URI, { dbName: 'taskmanager' });
     console.log(`MongoDB connected: ${conn.connection.host}`);
   } catch (error) {
     console.error(`MongoDB connection failed: ${error.message}`);
