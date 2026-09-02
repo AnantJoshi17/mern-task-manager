@@ -4,7 +4,7 @@ A task manager where you can add, edit, complete, search and delete tasks. Every
 
 Built as a first MERN project: small enough to understand every line, complete enough to talk about in an interview.
 
----
+----
 
 ## What MERN means
 
