@@ -7,7 +7,7 @@ Built as a first MERN project: small enough to understand every line, complete e
 ----
 
 ## What MERN means
-
+=
 | Letter | Tool | What it does here |
 |---|---|---|
 | **M** | MongoDB | The database. Stores each task as a document. |
