@@ -18,7 +18,7 @@ Built as a first MERN project: small enough to understand every line, complete e
 The point of MERN: **one language, JavaScript, from the database to the button you click.**
 
 ---
-
+=
 ## How a click travels through the app
 
 Say you tick a checkbox:
