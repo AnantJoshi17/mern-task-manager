@@ -16,7 +16,7 @@ Built as a first MERN project: small enough to understand every line, complete e
 | **N** | Node.js | The runtime that lets JavaScript run outside the browser, so the server can be JavaScript too. |
 
 The point of MERN: **one language, JavaScript, from the database to the button you click.**
-0
+
 ---
 
 ## How a click travels through the app
